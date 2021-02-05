@@ -1,0 +1,4 @@
+# Project exclude paths
+/framework/target/
+/page-objects/target/
+/regression-tests/target/
